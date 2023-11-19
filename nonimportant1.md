@@ -95,7 +95,7 @@ python cs285/scripts/run_hw1.py --expert_policy_file cs285/policies/experts/Half
 
 ### Result
 
-![image](https://github.com/jimchen2/nonimportant/assets/123833550/b152941e-b730-41cc-a1c9-898813d92388)
+<img src="https://github.com/jimchen2/nonimportant/assets/123833550/b152941e-b730-41cc-a1c9-898813d92388" alt="image" style="width: 50%;">
 ### HalfCheetah
 <details>
 
@@ -112,4 +112,4 @@ python cs285/scripts/run_hw1.py --expert_policy_file cs285/policies/experts/Half
 
 ### Result
 
-![image](https://github.com/jimchen2/nonimportant/assets/123833550/581de3c1-45da-47a9-9ca1-02027142b02a)
+<img src="https://github.com/jimchen2/nonimportant/assets/123833550/581de3c1-45da-47a9-9ca1-02027142b02a" alt="image" style="width: 50%;">
