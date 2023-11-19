@@ -96,6 +96,8 @@ python cs285/scripts/run_hw1.py --expert_policy_file cs285/policies/experts/Half
 ### Result
 
 <img src="https://github.com/jimchen2/nonimportant/assets/123833550/b152941e-b730-41cc-a1c9-898813d92388" alt="image" style="width: 50%;">
+
+
 ### HalfCheetah
 <details>
 
