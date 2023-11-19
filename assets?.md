@@ -1,0 +1,6 @@
+![image](https://github.com/jimchen2/nonimportant/assets/123833550/2756e229-05b2-4ffb-be7d-3f1457298b62)
+![image](https://github.com/jimchen2/nonimportant/assets/123833550/85fe8ea9-e734-4eb2-8a3a-bb914c5f6529)
+![image](https://github.com/jimchen2/nonimportant/assets/123833550/62a33f9d-a04f-46c2-ba74-3490bb567924)
+![image](https://github.com/jimchen2/nonimportant/assets/123833550/c01f51fd-fa06-49d7-840d-8652672db073)
+![image](https://github.com/jimchen2/nonimportant/assets/123833550/0ea3afc0-1d1b-461a-8e24-e9a54367b16c)
+![image](https://github.com/jimchen2/nonimportant/assets/123833550/32c7d69d-f526-4189-a98e-2f59527efedd)
