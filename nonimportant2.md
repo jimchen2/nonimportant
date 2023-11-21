@@ -21,3 +21,5 @@
 ![image](https://github.com/jimchen2/nonimportant/assets/123833550/1a39f67d-fea7-4a8b-8f45-4f11fa983e87)
 ![image](https://github.com/jimchen2/nonimportant/assets/123833550/2c94b1fa-407d-453d-a452-b8e98fd0f7d1)
 
+![image](https://github.com/jimchen2/nonimportant/assets/123833550/4a691e2a-ebe8-4328-935c-584481578462)
+![image](https://github.com/jimchen2/nonimportant/assets/123833550/bbd5e7c4-2927-4b34-8ed0-d8a67a595746)
